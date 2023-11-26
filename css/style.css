@@ -224,7 +224,8 @@ color: #2e2f42;
 
 /* STYLES for HW3 starts HERE */
 
-/* HEADER */
+
+/* HEADER - index and portfolio */
 
 .header-style {
   border-bottom: 1px solid #e7e9fc;
@@ -259,8 +260,7 @@ color: #2e2f42;
 }
 
 .link-style-hwthree {
-  padding-top: 24px 0;
-  padding-bottom: 24px 0;
+  padding: 24px 0 24px;
 
 }
 
@@ -274,5 +274,23 @@ color: #2e2f42;
   display: flex;
   gap: 40px;
 }
+
+
+/* Main page sec 1 - index */
+
+.first-section-hwthree {
+  padding: 188px 0 188px;
+  max-width: 496px;}
+
+.firstsec-button {
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  background-color: #4d5ae5;
+  border-radius: 4px;
+}
+.firstsec-button {cursor: pointer;}
+
 
 
