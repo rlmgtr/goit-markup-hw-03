@@ -259,8 +259,8 @@ color: #2e2f42;
 }
 
 .link-style-hwthree {
-  padding-top: 24px;
-  padding-bottom: 24px;
+  padding-top: 24px 0;
+  padding-bottom: 24px 0;
 
 }
 
