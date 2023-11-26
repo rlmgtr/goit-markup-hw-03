@@ -279,7 +279,9 @@ color: #2e2f42;
 
 .first-section-hwthree {
   padding: 188px 0 188px;
-  text: 496px;}
+  }
+
+.first-section-hwthree {max-width: 496px;}
 
 .firstsec-button {
   display: block;
@@ -302,7 +304,16 @@ gap: 24px;
 
 .liststyle-hwthree {width: calc((100% - 72px) / 4);}
 
-.section-two-headers-hwthree {margin-bottom: 8px;}
+.section-two-headers-hwthree {margin-bottom: 120px}
+
+.section-three-header-hwthree {margin-bottom: 72px;
+}
+
+.secthree-ul-list-style {display: flex;
+  gap: 24px;}
+
+
+.secthree-list-style-hwthree { flex-basis: calc((100% - 48px) / 3);}
 
 
 
