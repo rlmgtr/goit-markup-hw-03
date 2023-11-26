@@ -261,7 +261,6 @@ color: #2e2f42;
 
 .link-style-hwthree {
   padding: 24px 0 24px;
-
 }
 
 .list-style-hwthree 
@@ -280,7 +279,7 @@ color: #2e2f42;
 
 .first-section-hwthree {
   padding: 188px 0 188px;
-  max-width: 496px;}
+  text: 496px;}
 
 .firstsec-button {
   display: block;
@@ -291,6 +290,19 @@ color: #2e2f42;
   border-radius: 4px;
 }
 .firstsec-button {cursor: pointer;}
+
+/* Main page sec 2 - index */
+
+.second-section-hwthree {padding: 120px 0 120px;
+}
+
+.sectwolist-hwthree {display: flex;
+gap: 24px;
+}
+
+.liststyle-hwthree {width: calc((100% - 72px) / 4);}
+
+.section-two-headers-hwthree {margin-bottom: 8px;}
 
 
 
