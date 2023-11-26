@@ -1,0 +1,223 @@
+ :root {
+  -- 
+ }
+
+
+body {
+  font-family: Roboto, sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+/* styles for header */
+
+.logo-style {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5; 
+}
+
+
+
+/* this is default LINK style - apply in all list tags*/
+
+.link {
+  text-decoration: none;
+}
+
+.link:hover,
+:focus,
+:active {
+  color: #404bbf;
+}
+
+
+
+.inside-logo {
+  color: #2e2f42;
+}
+
+.list {
+  list-style: none;
+}
+
+.link-style {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.link-style:hover {color: #404bbf;}
+.link-style:focus {color: #404bbf;}
+.link-style:active {color: #404bbf;}
+  
+
+
+.address-style {
+font-style: normal;
+line-height: 1.5;
+letter-spacing: 0.02em;
+
+}
+
+.contacts-color {color: #434455;}
+  
+.contacts-color:hover {color: #404bbf;}
+.contacts-color:focus {color: #404bbf;}
+.contacts-color:active {color: #404bbf;}
+
+
+/* styles for first section */
+.first-section {
+  background-color: #2e2f42;
+}
+.first-section-header {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.first-section-button {
+  background-color: #4d5ae5;
+  font-family: Roboto, sans-serif;
+  color: #434455;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+
+.first-section-button:hover, :focus {background-color: #404BBF }
+
+.first-section-button :hover
+:focus {
+  color: #404bbf; }
+
+.first-section-button {
+  cursor: pointer;
+}
+/* styles for second section */
+.section-two-headers {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.section-two-paragraphs {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/* styles for thitd section */
+
+.section-three-header {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+/* styles for fourth section */
+.fourth-section {
+  background-color: #f4f4fd;
+}
+
+
+.fourth-section-header {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+  background-color: #FFFFFF;
+}
+
+.employee-bgcolor {
+  background-color:#FFFFFF;
+}
+
+.fourthsectionemployee-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.fourthsectionemployee-position {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* styles for footer */
+.footer-style {
+  background-color: #2e2f42;
+}
+
+.footer-paragraph {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
+
+.footerinside-logo {
+  color:  #f4f4fd;
+}
+
+/* this is for Portfolio Styling */
+
+
+
+/* this is for Portfolio Styling - main page */
+.portfoliobutton-style {
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #F4F4FD;  
+}
+
+.portfolio-headers {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42; 
+}
+
+
+
+.portfoliobutton-style :hover, :focus {color: #FFFFFF;
+  background-color: #404BBF;
+}
+
+.portfoliobutton-style:hover {
+  color: #FFFFFF;
+}
+
+.portfoliobutton-style {cursor: pointer;}
+
+
+.portfolio-p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
