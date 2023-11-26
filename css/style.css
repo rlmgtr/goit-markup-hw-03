@@ -221,3 +221,38 @@ color: #2e2f42;
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+/* STYLES for HW3 starts HERE */
+
+/* HEADER */
+
+.header-style {
+  border-bottom: 1px;
+  color: #e7e9fc;
+}
+
+.div-style {
+  display: flex;
+}
+
+.default-container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px 0 15px entry;
+}
+
+.nav-style {
+  display: flex;
+  align-items: center;
+}
+
+.logo-style-hwthree {margin-right: 76px;}
+
+.nav-style-hwthree {
+  display: flex;
+  gap: 40px;
+}
+
+
+
+
