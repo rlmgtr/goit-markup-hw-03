@@ -259,10 +259,21 @@ color: #2e2f42;
 }
 
 .link-style-hwthree {
+  gap: 40px;
   padding-top: 24px;
   padding-bottom: 24px;
+
 }
 
-.list-style-hwthree {margin-right: 40px;
+.list-style-hwthree 
+{ gap: 40px;
+  margin-right: 40px;
   margin-right: 0;}
 
+
+.address-style-hwthree {
+  display: flex;
+  gap: 40px;
+}
+
+.address-style-hwthree {}
