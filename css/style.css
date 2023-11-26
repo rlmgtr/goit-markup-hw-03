@@ -227,18 +227,18 @@ color: #2e2f42;
 /* HEADER */
 
 .header-style {
-  border-bottom: 1px;
-  color: #e7e9fc;
+  border-bottom: 1px solid #e7e9fc;
 }
 
 .div-style {
   display: flex;
 }
 
-.default-container {
+.container {
   width: 1158px;
   margin: 0 auto;
-  padding: 0 15px 0 15px entry;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .nav-style {
@@ -253,6 +253,16 @@ color: #2e2f42;
   gap: 40px;
 }
 
+.menu-style {
+  display: flex;
+  margin-right: 40px;
+}
 
+.link-style-hwthree {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
 
+.list-style-hwthree {margin-right: 40px;
+  margin-right: 0;}
 
