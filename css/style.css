@@ -330,7 +330,16 @@ gap: 24px;
 .fourth-section-ul-hwthree {display: flex;
 gap: 24px; }
 
+/* Index Footer */
 
+.footer-style {padding 100px 0;}
+
+.footerlink-hwthree {display: inline-block;
+margin-bottom: 16px;}
+
+.footer-p-hwthree {
+  max-width: 264px;
+}
 
 
 
