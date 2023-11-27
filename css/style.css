@@ -185,11 +185,6 @@ letter-spacing: 0.02em;
 
 /* this is for Portfolio Styling - main page */
 
-.portfoliosection-hwthree {
-  padding-top: 96px;
-  
-}
-
 .portfoliobutton-style {
   font-family: Roboto, sans-serif;
   font-weight: 500;
@@ -351,6 +346,19 @@ margin-bottom: 16px;}
 
 /* Portfolio Main - buttons */
 
+.portfoliosection-hwthree {padding: 96px 0 120px 0;}
+
+
+.portfoliobuttonstyle-hwthree {
+  padding: 12px 24px;
+  border: 1px solid #e7e9fc;
+  border-radius: 4px;
+}
+
+.portfoliobuttonstyle-hwthree :hover {border: 1px solid transparent;}
+.portfoliobuttonstyle-hwthree :focus {border: 1px solid transparent;}
+
+
 .portfoliobuttonlist {display: flex;
 justify-content: center;
 gap: 24px;
@@ -390,15 +398,5 @@ margin-bottom: 72px;}
 }
 
 
-.portfoliobuttonstyle.hwthree {
-  padding: 12px 24px
-  border: 1px solid #e7e9fc;
-  border-radius: 4px;
-
-}
-
-.portfoliobuttonstyle.hwthree :hover {border:1px solid transparent;}
-
-.portfoliobuttonstyle.hwthree :focus {border: 1px solid transparent;}
 
 
