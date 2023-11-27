@@ -275,7 +275,6 @@ color: #2e2f42;
   gap: 40px;
 }
 
-
 /* Main page sec 1 - index */
 
 .first-section-hwthree {
@@ -330,6 +329,17 @@ gap: 24px;
 
 .fourth-section-ul-hwthree {display: flex;
 gap: 24px; }
+
+.employeeliststyle-hwthree {border-radius: 0px 0px 4px 4px;
+}
+
+.employeedivstyle-hwthree {padding: 32px 0;
+}
+
+.employeenamestyle-hwthree {text-align: center;
+margin-bottom: 8px;}
+
+.positionstyle-hwthree {text-align: center;}
 
 /* Index Footer */
 
