@@ -364,20 +364,15 @@ justify-content: center;
 gap: 24px;
 margin-bottom: 72px;}
 
-.portfoliobutton-li {
-  
-}
-
-.portfoliobutton-l 
 
 
 /* Portfolio Main - images, services */
 
-.portfolioservices-list {
+.portfolioservices-list-ul {
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
-  row-gap: 48px; 
+  row-gap: 48px;
 }
 
 .portfolioservices-li {
