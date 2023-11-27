@@ -380,3 +380,9 @@ margin-bottom: 72px;}
 .portfolio-headers-hwthree {
   margin-bottom: 8px;
 }
+
+.portfoliodivlist {
+  padding: 32px x 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+}
