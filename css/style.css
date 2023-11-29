@@ -1,5 +1,4 @@
 :root {
-  --button-border-color: #e7e9fc;
   --white: #fff;
   --ocean: #e7e9fc;
 }
@@ -102,17 +101,12 @@ body {
   color: #ffffff;
 }
 
-.first-section-button:hover,
-:focus {
-  background-color: #404bbf;
-}
-
 .first-section-button {
   cursor: pointer;
 }
 
 .first-section-button :hover,
-.first-section-button focus {
+.first-section-button :focus {
   background-color: var(--ocean);
   color: var(white);
   border: 1px solid;
