@@ -409,10 +409,9 @@ margin-bottom: 16px;}
   border-radius: 4px;
 }
 
-.portfoliobuttonstyle-hwthree {
-  border: 1px solid var(--button-border-color);}
-.portfoliobuttonstyle-hwthree :hover {border-color: transparent;}
-.portfoliobuttonstyle-hwthree :focus {border-color: transparent; }
+.portfoliobuttonstyle-hwthree :hover {border: 1px solid transparent; }
+.portfoliobuttonstyle-hwthree :focus {border: 1px solid transparent; }
+
 
 .portfoliobuttonlist {display: flex;
 justify-content: center;
