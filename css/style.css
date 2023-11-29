@@ -1,5 +1,6 @@
 :root {
   --button-border-color: #e7e9fc;
+  --white: #fff;
 }
 
 body {
@@ -355,7 +356,7 @@ img {
 }
 
 .features-item {
-  flex-basis: calc((100% - 72px) / 4);
+  width: calc((100% - 72px) / 4);
   margin: 24px;
 }
 
