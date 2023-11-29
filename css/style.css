@@ -451,6 +451,9 @@ img {
   border-color: transparent;
 }
 
+.portfoliobuttonstyle-hwthree {
+  border: 1px solid #e7e9fc;
+}
 .portfoliobuttonstyle-hwthree :hover {
   border: 1px solid transparent;
 }
