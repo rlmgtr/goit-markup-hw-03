@@ -269,6 +269,9 @@ color: #2e2f42;
   margin-right: 40px;
   margin-right: 0;}
 
+.list-style-li-hwthree {
+  padding: 
+}
 
 .address-style-hwthree {
   display: flex;
@@ -281,7 +284,9 @@ color: #2e2f42;
   padding: 188px 0 188px;
   }
 
-.first-section-hwthree {max-width: ;}
+.firstsecheader-hwthree {
+  max-width: 496px;
+}
 
 .firstsec-button {
   display: block;
@@ -296,6 +301,23 @@ color: #2e2f42;
 /* Main page sec 2 - index */
 
 .second-section-hwthree {padding: 120px 0 120px;
+
+}
+
+.visually-hidden {
+position: absolute;
+width: 1px;
+height: 1px;
+margin: -1px;
+border: 0;
+padding: 0;
+
+white-space: nowrap;
+clip-path: inset(100%);
+clip: rect(0 0 0 0);
+overflow: hidden;
+outline: 0;
+outline-offset: 0;
 }
 
 .sectwolist-hwthree {display: flex;
