@@ -357,7 +357,11 @@ img {
 
 .features-item {
   width: calc((100% - 72px) / 4);
-  margin: 24px;
+  margin-right: 24px;
+}
+
+.features-item :last-child {
+  margin-right: 0;
 }
 
 .section-two-headers-hwthree {
