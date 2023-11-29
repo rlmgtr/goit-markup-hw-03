@@ -364,7 +364,11 @@ img {
   margin-right: 0;
 }
 
-.section-two-headers-hwthree .features-item {
+.features-item {
+  margin-bottom: 8px;
+}
+
+.section-two-headers-hwthree {
   margin-bottom: 8px;
 }
 
