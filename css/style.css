@@ -333,10 +333,8 @@ color: #2e2f42;
 gap: 24px;
 }
 
-.sectwolist-hwthree .sectwoliststyle-li-hwthree {
-
+.sectwoliststyle-li-hwthree {
   flex-basis: calc((100% - 24px) / 4);
-
 }
 
 
