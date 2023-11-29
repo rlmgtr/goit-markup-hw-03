@@ -356,6 +356,7 @@ img {
 
 .features-item {
   flex-basis: calc((100% - 72px) / 4);
+  margin: 24px;
 }
 
 .section-two-headers-hwthree {
