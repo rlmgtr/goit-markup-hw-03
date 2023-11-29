@@ -331,11 +331,19 @@ color: #2e2f42;
 
 .sectwolist-hwthree {display: flex;
 gap: 24px;
-calc((100% - 72px) / 4);
+}
+
+.sectwolist-hwthree .sectwoliststyle-li-hwthree {
+
+  flex-basis: calc((100% - 24px) / 4);
 
 }
 
-.sectwoliststyle-li-hwthree { }
+
+
+
+
+.sectwoliststyle-li-hwthree { calc((100% - 72px) / 4);}
 
 .section-two-headers-hwthree {margin-bottom: 8px;}
 
