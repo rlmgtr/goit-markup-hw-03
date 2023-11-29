@@ -331,11 +331,11 @@ color: #2e2f42;
 
 .sectwolist-hwthree {display: flex;
 gap: 24px;
-}
-
-.sectwoliststyle-li-hwthree { width: calc((100% - 72px) / 4)
+calc((100% - 72px) / 4);
 
 }
+
+.sectwoliststyle-li-hwthree { }
 
 .section-two-headers-hwthree {margin-bottom: 8px;}
 
