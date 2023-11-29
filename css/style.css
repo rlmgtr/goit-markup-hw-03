@@ -287,6 +287,10 @@ color: #2e2f42;
   gap: 40px;
 }
 
+img {
+  display: block;
+}
+
 /* Main page sec 1 - index */
 
 .first-section-hwthree {
