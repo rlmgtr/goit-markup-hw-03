@@ -334,7 +334,7 @@ gap: 24px;
 }
 
 .sectwoliststyle-li-hwthree {
-  flex-basis: calc((100% - 24px) / 4);
+  flex-basis: calc((100% - 72px) / 4);
 }
 
 
