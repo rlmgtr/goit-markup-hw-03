@@ -108,6 +108,12 @@ body {
 .first-section-button :hover :focus {
   color: #404bbf;
 }
+.first-section-button {
+  border: 1px solid #e7e9fc;
+}
+.first-section-button {
+  border: 1px solid transparent;
+}
 
 .first-section-button {
   cursor: pointer;
