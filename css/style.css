@@ -333,7 +333,9 @@ color: #2e2f42;
 gap: 24px;
 }
 
-.liststyle-hwthree {width: width calc((100% - 3 * 24px) / 4);}
+.sectwoliststyle-li-hwthree { width: calc((100% - 72px) / 4)
+
+}
 
 .section-two-headers-hwthree {margin-bottom: 8px;}
 
@@ -374,7 +376,7 @@ margin-bottom: 8px;}
 
 /* Index Footer */
 
-.footer-style {padding 100px 0;}
+.footer-style {padding: 100px 0;}
 
 .footerlink-hwthree {display: inline-block;
 margin-bottom: 16px;}
