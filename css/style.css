@@ -255,9 +255,13 @@ color: #2e2f42;
   gap: 40px;
 }
 
-.menu-style {
+.menu-style-hwthree {
   display: flex;
   margin-right: 40px;
+}
+
+.menustyle-li-hwthree {
+  gap: 40px;
 }
 
 .link-style-hwthree {
