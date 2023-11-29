@@ -409,8 +409,8 @@ margin-bottom: 16px;}
   border-radius: 4px;
 }
 
-.portfoliobuttonstyle-hwthree :hover {border: 1px solid transparent;}
-.portfoliobuttonstyle-hwthree :focus {border: 1px solid transparent;}
+.portfoliobuttonstyle-hwthree {border: 1px solid transparent;}
+.portfoliobuttonstyle-hwthree :hover {border-color: transparent;}
 
 
 .portfoliobuttonlist {display: flex;
