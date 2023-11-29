@@ -105,11 +105,12 @@ body {
   cursor: pointer;
 }
 
-.first-section-button :hover,
-.first-section-button :focus {
+.portfoliobutton-li :focus,
+.portfoliobutton-li :hover {
   background-color: var(--ocean);
   color: var(white);
   border: 1px solid transparent;
+  cursor: pointer;
 }
 
 /* styles for second section */
