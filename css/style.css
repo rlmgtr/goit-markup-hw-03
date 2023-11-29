@@ -354,6 +354,7 @@ img {
 .sectwolist-hwthree {
   display: flex;
   gap: 24px;
+  margin-right: 24px;
 }
 
 .features-item {
