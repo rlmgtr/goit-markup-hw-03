@@ -445,6 +445,10 @@ img {
   border-color: transparent;
 }
 
+.portfoliobuttonstyle-hwthree :hover {
+  border: 1px solid transparent;
+}
+
 .portfoliobuttonlist {
   display: flex;
   justify-content: center;
@@ -459,9 +463,6 @@ img {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
-
-  .portfoliolinkslist-hwthree {
-  }
 }
 .portfoliolist-container {
   padding: 32px 16px;
