@@ -1,7 +1,6 @@
 :root {
   --button-border-color: #e7e9fc;
-  --ocean: #404bbf;
-  --white: #fff;
+}
 
 body {
   font-family: Roboto, sans-serif;
@@ -217,9 +216,19 @@ body {
 }
 
 .portfoliobutton-style :hover,
-.portfoliobutton-style :focus {
-  background-color: var();
+:focus {
+  color: #ffffff;
+  background-color: #404bbf;
 }
+
+.portfoliobutton-style:hover {
+  color: #ffffff;
+}
+
+.portfoliobutton-style {
+  cursor: pointer;
+}
+
 .portfolio-p {
   font-size: 16px;
   line-height: 1.5;
@@ -345,17 +354,9 @@ img {
   gap: 24px;
 }
 
-.features-list-item {
+.features-item {
   width: calc((100% - 72px) / 4);
   margin: 24px;
-}
-
-.features-list-item: :last-child {
-  margin: 0;
-}
-
-.features-list-item {
-  margin-bottom: 8px;
 }
 
 .section-two-headers-hwthree {
@@ -442,11 +443,19 @@ img {
   border-radius: 4px;
 }
 
+.portfoliobuttonstyle-hwthree {
+  border: 1px solid #e7e9fc;
+}
+
 .portfoliobuttonstyle-hwthree :hover,
-.portfoliobuttonstyle-hwthree :focus {
-  background-color: var(--ocean);
-  color:var(--white) ;
-  cursor: pointer;
+:focus {
+  border-color: transparent;
+}
+
+.portfoliobuttonstyle-hwthree {
+  border: 1px solid #e7e9fc;
+}
+.portfoliobuttonstyle-hwthree :hover {
   border: 1px solid transparent;
 }
 
