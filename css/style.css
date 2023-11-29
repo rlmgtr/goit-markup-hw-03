@@ -116,6 +116,7 @@ letter-spacing: 0.02em;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 
 /* styles for thitd section */
@@ -332,7 +333,7 @@ outline-offset: 0;
 gap: 24px;
 }
 
-.liststyle-hwthree {flex-basis: calc((100% - 72px) / 4);}
+.liststyle-hwthree {width: calc((100% - 72px) / 4);}
 
 .section-two-headers-hwthree {margin-bottom: 120px}
 
